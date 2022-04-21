@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin-top: 6%;
+}
+
+body {
+    background-color: #000;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+    overflow: hidden;
+    margin: 0;
+}
+
+.btn {
+    background-color: silver;
+    border-radius: 5px;
+    border: none;
+    color: #000;
+    margin: 1rem;
+    padding: 1.5rem 3rem;
+    font-size: 1.2rem;
+    font-family: inherit;
+    cursor: pointer;
+}
+
+.btn:hover {
+   background-color: rgb(53, 48, 48); 
+   color: #fff;
+}
+
+.btn:focus {
+    outline: none;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #fff;
+}
+h1:hover{
+    color: silver;
+}
+
+@media(max-width: 300px){
+    .btn {
+        background-color: silver;
+        border-radius: 5px;
+        border: none;
+        color: #000;
+        margin: 1rem;
+        padding: 1px 2rem;
+        font-size: 18px;
+        font-family: inherit;
+        cursor: pointer;
+    }
+    h1 {
+        font-size: 1rem;
+        color: #fff;
+    }
+}
+
+@media(max-width: 376px) {
+    .btn {
+        background-color: silver;
+        border-radius: 5px;
+        border: none;
+        color: #000;
+        margin: 1.4rem;
+        padding: 1.5rem 3rem;
+        font-size: 0.4rem;
+        font-family: inherit;
+        cursor: pointer;
+    }
+}
+
+@media(max-width: 408px) {
+    .btn {
+        background-color: silver;
+        border-radius: 5px;
+        border: none;
+        color: #000;
+        margin: 1.4rrem;
+        padding: 1.5rem 3rem;
+        font-size: 0.4rem;
+        font-family: inherit;
+        cursor: pointer;
+    }
+}
+
+@media(max-width: 400px) {
+    .btn {
+        background-color: silver;
+        border-radius: 5px;
+        border: none;
+        color: #000;
+        margin: 1.4rem;
+        padding: 1.5rem 3rem;
+        font-size: 0.4rem;
+        font-family: inherit;
+        cursor: pointer;
+    }
+}
+
+
+@media(max-width: 424px) {
+    .btn {
+        background-color: silver;
+        border-radius: 5px;
+        border: none;
+        color: #000;
+        margin: 1.4rem;
+        padding: 1.5rem 3rem;
+        font-size: 0.4rem;
+        font-family: inherit;
+        cursor: pointer;
+    }
+}
+
+
+@media(max-width: 395px) {
+    .btn {
+        background-color: silver;
+        border-radius: 5px;
+        border: none;
+        color: #000;
+        margin: 1.2rem;
+        padding: 1.5rem 3rem;
+        font-size: 0.4rem;
+        font-family: inherit;
+        cursor: pointer;
+    }
+}
+@media(max-width: 389px) {
+    .btn {
+        background-color: silver;
+        border-radius: 5px;
+        border: none;
+        color: #000;
+        margin: 1.2rem;
+        padding: 1.5rem 3rem;
+        font-size: 0.4rem;
+        font-family: inherit;
+        cursor: pointer;
+    }
+}
+@media(max-width: 464px) {
+    .btn {
+        background-color: silver;
+        border-radius: 5px;
+        border: none;
+        color: #000;
+        margin: 1.4rem;
+        padding: 1.5rem 3rem;
+        font-size: 0.4rem;
+        font-family: inherit;
+        cursor: pointer;
+    }
+}
+
+@media(max-width: 483px) {
+    .btn {
+        background-color: silver;
+        border-radius: 5px;
+        border: none;
+        color: #000;
+        margin: 1.2rem;
+        padding: 1.5rem 3rem;
+        font-size: 0.4rem;
+        font-family: inherit;
+        cursor: pointer;
+    }
+}
+
+@media(max-width: 526px) {
+    .btn {
+        background-color: silver;
+        border-radius: 5px;
+        border: none;
+        color: #000;
+        margin: 1rem;
+        padding: 1.5rem 3rem;
+        font-size: 0.9rem;
+        font-family: inherit;
+        cursor: pointer;
+    }
+}
+
+@media(max-width: 477px) {
+    .btn {
+        background-color: silver;
+        border-radius: 5px;
+        border: none;
+        color: #000;
+        margin: 1rem;
+        padding: 1.5rem 3rem;
+        font-size: 0.9rem;
+        font-family: inherit;
+        cursor: pointer;
+    }
+}
+
+@media(max-width: 402px) {
+    .btn {
+        background-color: silver;
+        border-radius: 5px;
+        border: none;
+        color: #000;
+        margin: 1rem;
+        padding: 1.5rem 3rem;
+        font-size: 0.9rem;
+        font-family: inherit;
+        cursor: pointer;
+    }
+}
